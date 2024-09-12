@@ -25,7 +25,7 @@ SignSpeak is a sign language translator developed using Python, OpenCV, NumPy, K
 ```
 pip install -r requirements.txt
 ```
-4. Run the main script to launch the SignSpeak application.
+3. Run the main script to launch the SignSpeak application.
 ```
 python main.py
 ```
