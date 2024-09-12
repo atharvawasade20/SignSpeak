@@ -22,13 +22,13 @@ SignSpeak is a sign language translator developed using Python, OpenCV, NumPy, K
 
 1. Clone the SignSpeak repository to your local machine.
 2. Install the required Python packages listed in the requirements.txt file.
- ```
- pip install -r requirements.txt
- ```
+```
+pip install -r requirements.txt
+```
 3. Run the main script to launch the SignSpeak application.
- ```
- python main.py
- ```
+```
+python main.py
+```
 
 ## Usage
 
