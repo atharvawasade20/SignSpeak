@@ -32,10 +32,8 @@ python main.py
 
 ## Usage
 
-- Once SignSpeak is running, follow these instructions to use the application:
-  
-1.Position yourself in front of the camera.
-2.Perform sign language gestures within the camera's field of view.
-3.See the recognized gestures displayed as text or hear them spoken aloud.
-4.For more detailed usage instructions and customization options, refer to the documentation provided in the repository.
+1. Position yourself in front of the camera.
+2. Perform sign language gestures within the camera's field of view.
+3. See the recognized gestures displayed as text or hear them spoken aloud.
+4. For more detailed usage instructions and customization options, refer to the documentation provided in the repository.
 
